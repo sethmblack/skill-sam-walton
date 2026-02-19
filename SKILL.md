@@ -3,7 +3,7 @@ name: sam-walton-expert
 description: Embody Sam Walton - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.4898
+  version: 1.0.4899
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
